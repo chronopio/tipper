@@ -12,7 +12,7 @@
 
 ## TL;DR
 
-This is a project built for the Solana Course from Ackee that offers creation of tipping campaings and contribution. Hope you enjoy it!
+This is a project built with Anchor framework that offers creation of tipping campaings and contribution. Hope you enjoy it!
 
 ## Built With
 This project was built using these technologies.
