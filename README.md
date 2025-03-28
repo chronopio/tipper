@@ -17,10 +17,9 @@ This is a project built with Anchor framework that offers creation of tipping ca
 ## Built With
 This project was built using these technologies.
 
-- Next.js
 - Rust
 - Anchor
-- Vercel
+- Typescript
 
 ## Features
 
